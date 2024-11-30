@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Asianet_2023_logo.png/32px-Asianet_2023_logo.png" group-title="Malayalam",Asianet
+http://217.20.112.199/asianet/index.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Mazhavil_Manorama#/media/File:Mazhavil_Manorama_Logo.png" group-title="Malayalam",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Mazhavil_Manorama#/media/File:Mazhavil_Manorama_Logo.png" group-title="Malayalam",MagnaVision
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/abr3/live3/chunks.m3u8
